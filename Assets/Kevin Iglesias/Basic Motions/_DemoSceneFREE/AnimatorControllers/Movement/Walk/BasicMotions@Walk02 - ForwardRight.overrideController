@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Walk02 - ForwardRight
+  m_Controller: {fileID: 9100000, guid: 69bd73834e6a0e9448a821cb1e8e0fb2, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 0ab6a2e6f889b2f488bf18638a9635e3, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 0a08d205231ed564d97c4e32af47f926, type: 3}

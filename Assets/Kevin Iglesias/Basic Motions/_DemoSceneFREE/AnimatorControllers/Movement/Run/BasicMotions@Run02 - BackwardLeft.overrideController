@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Run02 - BackwardLeft
+  m_Controller: {fileID: 9100000, guid: 676743b0fdeecc8429f2ae3ac2b09eef, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: c61cb4bd125007e4a83393ff033e4689, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: e15c71122d372314a8d0a0850f2cb27d, type: 3}

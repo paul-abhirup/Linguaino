@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Idles02
+  m_Controller: {fileID: 9100000, guid: 7d05b9f214b59c242924642c971ea4c4, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: ebf6d636f0bdc7642bca3e831800df09, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 167a35c786f55384580421027047db5f, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 02f82df7d301d274883b41f32dca59a0, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 383afa9ae798a0c4eb2fb43e0a84b66b, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 9508ccae6dd32b54cb61bd81eda00380, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 8c2952c969428f748be063e5768fa90a, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: e23ec565e5d40ad4d94e0af6010f22c8, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 3da359268264e0d4db38c1ce951c30ca, type: 3}
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 0885b200f82360c48961884efca7afa0, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: 8ba90aafe9aa0b34fa2a442261464702, type: 3}

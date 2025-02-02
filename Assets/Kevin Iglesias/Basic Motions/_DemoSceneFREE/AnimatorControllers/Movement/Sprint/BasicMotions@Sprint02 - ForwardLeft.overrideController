@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Sprint02 - ForwardLeft
+  m_Controller: {fileID: 9100000, guid: d3edeaf1dd47b854c90cc3854821a571, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 5cb42faa270a0e44a869bf1204fdf95b, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: c630ab8c35758e2499b3809a483d58db, type: 3}

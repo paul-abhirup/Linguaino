@@ -1,0 +1,13 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: BasicMotions@Jump02
+  m_Controller: {fileID: 9100000, guid: c1e688191b73df348a99c2c722443ef1, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 3094330708855449807, guid: 6f77ba973a5a61c4ab15ef8362a5b624, type: 3}
+    m_OverrideClip: {fileID: 3094330708855449807, guid: a32e09bfd110b9f47aca50f1f8bdd882, type: 3}
